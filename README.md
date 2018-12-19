@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/chudingkun/readerBox/master/conf/picture/book.png" width="60" height="60">   Reader Box
-面向广大阅读爱好者，基于书籍形式的阅读总结，实例演示。xxxxxxxxx
+面向广大阅读爱好者，基于书籍形式的阅读总结，实例演示。闲着没事，赶紧一起弄起来。
 
 ## 书单分类
 
@@ -25,4 +25,4 @@
 
 ## 致谢
 
-谢谢您的观看
+谢谢您的阅读，若有帮助到您的地方，加入我们一起阅读，一起总结。
