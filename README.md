@@ -6,10 +6,9 @@
 按照自己的一些理解进行了分类，这样找起来可能比较方便。
 
 - [Java](https://github.com/chudingkun/readerBox/blob/master/books/java/README-JAVA.md)
-- [xxxx2](https://github.com/chudingkun/readerBox/blob/master/books/xxxx2/READMEXXX2.md)
-- [xxxx3](https://github.com/chudingkun/readerBox/blob/master/books/xxxx3/READMEXXX3.md)
-
-
+- [数据结构与算法](https://github.com/chudingkun/readerBox/blob/master/books/dataStructureAndArithmetic/README-structureAndArithmetic.md)
+- [redis](https://github.com/chudingkun/readerBox/blob/master/books/redis/README-REDIS.md)
+- [netty](https://github.com/chudingkun/readerBox/blob/master/books/netty/README-NETTY.md)
 
 ## 杂谈
 
