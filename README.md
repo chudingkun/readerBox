@@ -19,7 +19,7 @@
 
 ## 联系我
 
-<img src="https://raw.githubusercontent.com/chudingkun/readerBox/master/conf/picture/wechat.jpg" title="60" width="60" /> 
+<img src="https://raw.githubusercontent.com/chudingkun/readerBox/master/conf/picture/wechat.jpg" title="wechat" width="200" /> 
 
 
 ## 致谢
