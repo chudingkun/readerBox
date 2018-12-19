@@ -11,8 +11,12 @@
 
 ## 杂谈
 
-- Java基础
-- web开发
-- 中间件
-- 数据库
-- 缓存
+- [Java基础](https://github.com/chudingkun/readerBox/blob/master/talk/se/README-SE.md)
+- [web开发](https://github.com/chudingkun/readerBox/blob/master/talk/web/README-WEB.md)
+- [中间件](https://github.com/chudingkun/readerBox/blob/master/talk/middleware/README-MIDDLEWARE.md)
+- [数据库](https://github.com/chudingkun/readerBox/blob/master/talk/db/README-DB.md)
+- [缓存](https://github.com/chudingkun/readerBox/blob/master/talk/cache/README-CACHE.md)
+
+## 致谢
+
+谢谢您的观看
