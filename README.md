@@ -1,4 +1,4 @@
-# <img src="./conf/book.png" width="60" height="60">   Reader Box
+# <img src="https://raw.githubusercontent.com/chudingkun/readerBox/master/conf/picture/book.png" width="60" height="60">   Reader Box
 面向广大阅读爱好者，基于书籍形式的阅读总结，实例演示。xxxxxxxxx
 
 ## 书单
@@ -16,6 +16,11 @@
 - [中间件](https://github.com/chudingkun/readerBox/blob/master/talk/middleware/README-MIDDLEWARE.md)
 - [数据库](https://github.com/chudingkun/readerBox/blob/master/talk/db/README-DB.md)
 - [缓存](https://github.com/chudingkun/readerBox/blob/master/talk/cache/README-CACHE.md)
+
+## 联系我
+
+<img src="https://raw.githubusercontent.com/chudingkun/readerBox/master/conf/picture/wechat.jpg" title="60" width="60" /> 
+
 
 ## 致谢
 
