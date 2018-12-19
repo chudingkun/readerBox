@@ -7,6 +7,7 @@
 
 - [Java](https://github.com/chudingkun/readerBox/blob/master/books/java/README-JAVA.md)
 - [数据结构与算法](https://github.com/chudingkun/readerBox/blob/master/books/dataStructureAndArithmetic/README-structureAndArithmetic.md)
+- [操作系统](https://github.com/chudingkun/readerBox/blob/master/books/os/README-OS.md)
 - [redis](https://github.com/chudingkun/readerBox/blob/master/books/redis/README-REDIS.md)
 - [netty](https://github.com/chudingkun/readerBox/blob/master/books/netty/README-NETTY.md)
 
