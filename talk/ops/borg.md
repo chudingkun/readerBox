@@ -1,6 +1,4 @@
-## 
-
- *译者原文：http://dockone.io/article/726 译者：难易   英文原文：https://github.com/chudingkun/readerBox/blob/master/books/ops/borg.pdf*
+### *译者原文：http://dockone.io/article/726 译者：难易   英文原文：https://github.com/chudingkun/readerBox/blob/master/books/ops/borg.pdf*
 
 ## 摘要 
 
@@ -52,9 +50,9 @@ task也有一些属性，包括资源用量，在job中的排序。大多task的
 
 用户通过RPC来操作Borg的job，大多是从命令行工具，或者从我们的监控系统（$2.6）。大多job描述文件是用一种申明式配置文件BCL -- GCL[12]的一个变种，会产生一个protobuf文件[67]。BCL有一些自己的关键字。GCL提供了lambda表达式来允许计算，这样就能让应用在环境里面调整自己的配置。上万个BCL配置文件超过一千行长，系统中累计跑了了千万行BCL。Borg的job配置很类似于Aurora配置文件[6]。
 
-[![图2.jpg](http://dockone.io/uploads/article/20151010/158decdefb14543a1d824e714988bee2.jpg)](http://dockone.io/uploads/article/20151010/158decdefb14543a1d824e714988bee2.jpg)
+<img src="https://raw.githubusercontent.com/chudingkun/readerBox/master/conf/picture/state-diagram.png" title="wechat" width="600" /> 
 
-图2展现了job的和task的状态机和生命周期。
+上图展现了job的和task的状态机和生命周期。
 
 用户可以在运行时改变一个job中的task的属性，通过推送一个新的job配置给Borg。这个新的配置命令Borg更新task的规格。这就像是跑一个轻量级的，非原子性的事务，而且可以在提交后轻易再改回来。更新是滚动式的，在更新中可以限制task重启的数量，如果有太多task停掉，操作可以终止。
 
