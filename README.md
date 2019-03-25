@@ -19,6 +19,7 @@
 - [数据库](https://github.com/chudingkun/readerBox/blob/master/talk/db/README-DB.md)
 - [缓存](https://github.com/chudingkun/readerBox/blob/master/talk/cache/README-CACHE.md)
 - [运维](https://github.com/chudingkun/readerBox/blob/master/talk/ops/README-OPS.md)
+- [测试](https://github.com/chudingkun/readerBox/blob/master/talk/test/README-TEST.md)
 
 ## 联系我
 
